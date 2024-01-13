@@ -1,5 +1,6 @@
 from stable_baselines3 import A2C, SAC, PPO, DDPG
 
+
 def get_algorithm_function(algorithm):
     algorithm = algorithm.lower()
     if algorithm == "sac":
