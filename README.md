@@ -3,12 +3,14 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Irshadmeer/Asilomar-2023-EE-UAV-Varying-Reliability/HEAD)
 ![GitHub](https://img.shields.io/github/license/Irshadmeer/Asilomar-2023-EE-UAV-Varying-Reliability)
 [![arXiv](https://img.shields.io/badge/arXiv-2312.04742-informational)](https://arxiv.org/abs/2312.04742)
+[![IEEExplore](https://img.shields.io/badge/doi-10.1109/IEEECONF59524.2023.10477032-informational)](https://doi.org/10.1109/IEEECONF59524.2023.10477032)
 
 
 This repository is accompanying the paper "Reinforcement Learning Based Dynamic
 Power Control for UAV Mobility Management" (Irshad Meer, Karl-L. Besser,
 Mustafa Ozger, Vincent Poor, and Cicek Cavdar, 2023 Asilomar Conference on
-Signals, Systems, and Computers, Oct. 2023.
+Signals, Systems, and Computers, Oct. 2023, pp. 724-728,
+[doi:10.1109/IEEECONF59524.2023.10477032](https://doi.org/10.1109/IEEECONF59524.2023.10477032),
 [arXiv:2312.04742](https://arxiv.org/abs/2312.04742)).
 
 
@@ -58,8 +60,10 @@ You can use the following BibTeX entry
   booktitle = {2023 57th Asilomar Conference on Signals, Systems, and Computers},
   year = {2023},
   month = {10},
+  pages = {724--728},
   publisher = {IEEE},
   venue = {Pacific Grove, CA, USA},
+  doi = {10.1109/IEEECONF59524.2023.10477032},
   archiveprefix = {arXiv},
   eprint = {2312.04742},
   primaryclass = {cs.IT},
